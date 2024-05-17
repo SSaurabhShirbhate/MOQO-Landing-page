@@ -1,4 +1,4 @@
-# Project Name
+# MOQO landing page
 
 This project showcases animations created using HTML, CSS, and JavaScript, with the help of GSAP (GreenSock Animation Platform) and ScrollTrigger.
 
@@ -28,6 +28,3 @@ This project demonstrates how to create various animations, including loading an
 
 To use this project, simply clone the repository and open the `index.html` file in your web browser.
 
-```bash
-git clone <repository-url>
-cd <project-directory>

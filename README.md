@@ -2,15 +2,6 @@
 
 This project showcases animations created using HTML, CSS, and JavaScript, with the help of GSAP (GreenSock Animation Platform) and ScrollTrigger.
 
-## Table of Contents
-
-- [Description](#description)
-- [Demo](#demo)
-- [Features](#features)
-- [Usage](#usage)
-- [Dependencies](#dependencies)
-- [Credits](#credits)
-- [License](#license)
 
 ## Description
 
